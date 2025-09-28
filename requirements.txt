@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+torch
+torchvision
+ultralytics      # YOLOv8 free version
+numpy
+Pillow
+requests         # For free API calls (Unsplash / Pexels)
